@@ -1,6 +1,3 @@
-
-Certainly! Here's a README for a Python project that prints "Hello, World!":
-
 Hello World Python Project
 Description
 This is a simple Python project that prints "Hello, World!" to the console. It's a classic example often used to demonstrate the basic syntax of a programming language.

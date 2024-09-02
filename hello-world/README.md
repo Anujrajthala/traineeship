@@ -1,6 +1,3 @@
-
-Here's a README for your React project that displays "Hello World":
-
 Hello World React Project
 
 Description
