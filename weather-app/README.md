@@ -27,7 +27,7 @@ Fetches the weather data for the specified latitude and longitude.
 Installation Instructions
 
 Clone the repository:
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Anujrajthala/traineeship.git
 
 Navigate to the project directory:
 cd weather-app
