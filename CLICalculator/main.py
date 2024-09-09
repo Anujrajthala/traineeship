@@ -30,7 +30,7 @@ while True:
                 print(f"{add(num1,num2)}")
 
             elif selection == '2':
-                print(f"{multiply(num1,num2)}")
+                print(f"{subtract(num1,num2)}")
 
             elif selection == '3':
                 print(f"{multiply(num1, num2)}")

@@ -21,6 +21,9 @@ Usage
 When you run the script, it will output the following message to the console:
 Hello, World!
 
+Screenshot
+![img.png](img.png)
+
 Features
 Basic Python script demonstrating how to print text to the console.
 Perfect for beginners learning Python.

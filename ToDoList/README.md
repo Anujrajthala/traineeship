@@ -50,6 +50,8 @@ Enter the action index(1/2/3/4): 3
 Enter the index of the task you want deleted: 1
 'Buy groceries' task has been deleted.
 
+ScreenShot
+![img.png](img.png)
 
 Features
 Add Task: Allows the user to add a task to the list.

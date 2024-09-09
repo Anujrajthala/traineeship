@@ -21,6 +21,9 @@ npm start
 Usage
 After running npm start, the project will open in your browser at http://localhost:3000. You will see the message "Hello World" displayed on the screen.
 
+Screenshot
+![alt text](image.png)
+
 Features
 Simple React component that renders "Hello World".
 Demonstrates the basic setup of a React project using Vite.

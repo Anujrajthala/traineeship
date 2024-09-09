@@ -4,6 +4,7 @@ tasklist = []
 
 def addTask():
     newtask = input("Enter the new task: ")
+    print(f"{newtask} has been added to todo list.")
     tasklist.append(newtask)
 
 def viewTask():
@@ -20,6 +21,7 @@ def delTask():
 
 
 while True:
+    print("/////////////")
     print("1.Add Task")
     print("2.View Task")
     print("3.Delete Task")

@@ -42,6 +42,11 @@ Enter the first number: 10
 Enter the second number: 5
 15.0
 
+Screenshot
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
 Features
 Addition
 Subtraction

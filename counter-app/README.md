@@ -24,6 +24,10 @@ The + button increments the counter by 1.
 The - button decrements the counter by 1.
 The current count is displayed between the buttons.
 
+Screenshot
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 Features
 Increment and Decrement: Use the + and - buttons to adjust the counter value.
 Dynamic State Management: The counter value is managed using React's useState hook.
