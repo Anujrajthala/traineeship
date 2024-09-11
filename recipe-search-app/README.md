@@ -18,10 +18,10 @@ npm install
 
 ## Usage
 ### Start the development server:
-npm start
-Open your web browser and go to http://localhost:5174.
+* npm start
+* Open your web browser and go to http://localhost:5174.
 
-Enter the name of a dish into the input field and press Enter to search.
+Enter the name of a dish into the input field
 
 The app will display the recipe name, category, instructions, and a list of ingredients.
 
@@ -34,15 +34,15 @@ Here is an example of how the application might look:
 ![alt text](image-1.png)
 
 ## Features
-Search for recipes by dish name
-Display recipe name, category, and instructions
-List of ingredients with measurements
+1. Search for recipes by dish name
+2. Display recipe name, category, and instructions
+3. List of ingredients with measurements
 
 ## Known Issues
-Recipe data may not be available for all dish names
-Network issues may affect data fetching
+1. Recipe data may not be available for all dish names
+2. Network issues may affect data fetching
 
 ## Technologies Used
-React
-Axios
-CSS
+1. React
+2. Axios
+3. CSS
