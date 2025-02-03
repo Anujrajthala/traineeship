@@ -1,0 +1,13 @@
+.articles{
+    display: flex;          /* Set the unordered list to display as a flex container */
+    flex-wrap: wrap;       /* Allow items to wrap to the next line */
+    list-style-type: none; /* Remove default list styling */
+    padding: 0;           /* Remove default padding */
+    margin: 0; 
+    justify-content: center;  
+    gap: 50px;
+}
+
+.articles li {
+    width: 40%;
+  }

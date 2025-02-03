@@ -1,0 +1,39 @@
+.blog-card {
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 16px; /* Inner spacing */
+    margin: 16px; /* Outer spacing */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s; /* Smooth scaling on hover */
+    width: 100%;
+    height: 400px;
+
+  }
+  
+  .blog-card:hover {
+    transform: scale(1.02); /* Scale up on hover */
+  }
+  
+  .blog-card-image {
+    width: 90%; /* Make image responsive */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Round image corners */
+  }
+  .post-info{
+    display: flex;
+    justify-content: space-between;
+  }
+  .see-more-button {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth background change */
+  }
+  
+  .see-more-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
